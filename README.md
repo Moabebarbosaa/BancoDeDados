@@ -1,4 +1,4 @@
-DESCRIÇÃO DO PROJETO
+#DESCRIÇÃO DO PROJETO#
  
   Hollywood possui diversos estúdios cinematográficos. Estes estúdios produzem filmes. Em cada filme atuam atores, que possuem um conjunto um conjunto de tipos de papéis para o qual seu tipo físico é aconselhável (ex: vó, mocinha jovem, galã com idade avançada, adolescente). Estes tipos de papéis não são pré-definidos, constituindo uma lista preenchida a critério de cada ator. Em cada filme onde atua, um ator ganha um cachê, e desempenha um personagem que possui um nome. Estúdios podem existir mesmo que ainda não tiverem produzido um filme, mas só são considerados atores que já atuaram em pelo menos um filme.  
 As funcionalidades esperadas são:
