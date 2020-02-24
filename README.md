@@ -23,3 +23,6 @@ As funcionalidades esperadas são:
 10. Identificar ator (ou atriz) com maior cachê;
 
 11. Identificar ator e atriz mais novos a ganhar Óscar de melhor ator/atriz;
+
+
+Dupla: Bruno Lopes e Moabe Barbosa
